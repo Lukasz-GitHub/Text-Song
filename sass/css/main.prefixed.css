@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #dbdbdb;
+display: -ms-flexbox;
 display: flex;}
 .container {
   padding: 20px;
@@ -18,4 +19,4 @@ display: flex;}
     text-align: left;
     color: green; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=main.prefixed.css.map */
