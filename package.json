@@ -1,0 +1,25 @@
+{
+  "name": "Text-Song",
+  "version": "1.0.0",
+  "description": "https://lukasz-github.github.io/Text-Song/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukasz-GitHub/Text-Song.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lukasz-GitHub/Text-Song/issues"
+  },
+  "homepage": "https://github.com/Lukasz-GitHub/Text-Song#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.24.4",
+    "nu-html-checker": "^0.1.0"
+  }
+}
