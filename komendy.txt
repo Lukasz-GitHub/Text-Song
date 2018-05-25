@@ -1,3 +1,5 @@
 node_modules/.bin/autoprefixer-cli -o sass/css/main.prefixed.css sass/css/style.css
 
 node_modules/.bin/nu-html-checker index.html
+
+npm run watch
